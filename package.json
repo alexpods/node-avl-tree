@@ -1,0 +1,18 @@
+{
+  "name": "avl-tree",
+  "version": "0.0.0",
+  "description": "AVL binary search tree",
+  "repository": {
+    "type": "git",
+    "url":  "http://github.com/alexpods/node-avl-tree"
+  },
+  "author": {
+    "name": "Aleksey Podskrebyshev (Alex Pods)",
+    "email": "aleksey.podskrebyshev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexpods/node-avl-tree/issues"
+  },
+  "homepage": "https://github.com/alexpods/node-avl-tree"
+}
